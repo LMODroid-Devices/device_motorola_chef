@@ -15,10 +15,10 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_chef.mk
+    $(LOCAL_DIR)/lmodroid_chef.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_chef-user \
-    lineage_chef-userdebug \
-    lineage_chef-eng
+    lmodroid_chef-user \
+    lmodroid_chef-userdebug \
+    lmodroid_chef-eng
 
